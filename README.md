@@ -1,4 +1,4 @@
-# URLSession
+# URLFetch
 
 # Demo
 
@@ -7,17 +7,21 @@
 ![urlsessionfetchbuttontapped](https://user-images.githubusercontent.com/36717095/51093437-6bde8800-1771-11e9-833a-33acd83a7c92.gif)
 ![urlsessionfetchterminal](https://user-images.githubusercontent.com/36717095/51093439-6ed97880-1771-11e9-8907-2eb1ac2be99d.gif)
 
+## What Will Be Found In This App? (Featuring)
 
-Simple URLSession task to get and also post custom key/value.
+- Simple URLSession Task to fetch and also post custom key/value
+- Using Fake URL API 
 
-Simply fetching fake URL API for practice. 
+## Requirements
+<pre>
+IDE: Xcode (NEEDED TO OPEN)
+Language&Version: Swift 4.2 (ALSO OLDER VERSION ARE ALLOWED I BELIEVE) 
+Developing software for mainly, macOS, iOS, watchOS, and tvOS.
+</pre>
 
-My Github user page is at: 
-https://github.com/tetraprism95/
+## Git Clone
 
-My Github Pages repo can be found at:  
-https://github.com/tetraprism95/URLSession/ 
+<pre>
+$ git clone https://github.com/tetraprism95/URLFetch.git
+</pre>
 
-And, soon, you can see my customized homepage at:
-
-http://tetraprism95.github.io/
